@@ -24,8 +24,7 @@ A very basic list of possible writing and formatting options are:
 
 - **bold**
 - *italic*
-- [underline]
-- [***bold italic underline combination***]
+- ***bold italic combination***
 - ~~strikethrough~~ 
 - `code`
 - Lists
