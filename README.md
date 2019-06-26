@@ -27,7 +27,7 @@ A very basic list of possible writing and formatting options are:
 - `code`
 - Lists
   - Nested Lists
-     -Twice
+    - Twice
 - [ ] Task Lists
 - [x] etc
 - @mentions
