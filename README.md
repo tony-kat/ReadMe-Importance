@@ -12,7 +12,6 @@ When used creatively, ReadMe files can be used even before the final product, se
 
 *Ex.*
 - [x] Turn on computer
-- [ ] Check Email
 - [ ] Revisit Compile-Time Error in line 56 of texture code file
 - [ ] Update software
 - [ ] Turn off Computer
@@ -24,4 +23,13 @@ A very basic list of possible writing and formatting options are:
 - **bold**
 - *italic*
 - ***bold italic***
-~~strikethrough 
+- ~~strikethrough~~ 
+- `code`
+- Lists
+  - Nested Lists
+    -Twice
+- [ ] Task Lists
+- [x] 
+- @mentions
+- :emoji: :+1:
+
