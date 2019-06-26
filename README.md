@@ -1,5 +1,5 @@
 # ReadMe-Importance
-This Repository is about the importance of containing a readme file.
+This Repository is about the importance of containing a ReadMe file.
 In short, it is the best way to communicate your code to the world.
 It is a great place to talk about the **basics** including but not limited to:
 * What does this code do?
@@ -8,13 +8,15 @@ It is a great place to talk about the **basics** including but not limited to:
 
 When used correctly, ReadMe files can take projects containing *millions* of lines of code and explain them in a streamlined and easy-to-follow manner.
 
-When used creatively, ReadMe files can be used even before the final product, serving as instructions and announcement boards for collaborators as well as to-do lists for organizing work.
+When used *creatively*, ReadMe files can be used even before the final product, serving as instructions and announcement boards for collaborators as well as to-do lists for organizing work.
 
 *Ex.*
 - [x] Turn on computer
-- [ ] Revisit Compile-Time Error in line 56 of texture code file
-- [ ] Update software
-- [ ] Turn off Computer
+- [ ] Update debugging software
+- [x] Solve all Compile time errors
+- [ ] Revisit Logic Error in line 56 of texture code file
+- [ ] Finalize data aquisition method
+
 
 To-Do lists are made possible by another neat trick offered by the Read Me Feature, basic writing and formatting syntax. The text edit interface is pre-loaded with tons of formatting options that can be triggered via coded inputs in order to maximize your prose and connect thoughts/ideas/instructions as clearly as possible.
 
@@ -22,7 +24,8 @@ A very basic list of possible writing and formatting options are:
 
 - **bold**
 - *italic*
-- ***bold italic***
+- [underline]
+- [***bold italic underline combination***]
 - ~~strikethrough~~ 
 - `code`
 - Lists
@@ -31,7 +34,7 @@ A very basic list of possible writing and formatting options are:
 - [ ] Task⮧
 - [x] Lists⮥
 - @mentions
-- :emoji: :+1: :smile:
+- :emoji::smile:
 
 With mastery of these writing and syntax tricks, the possiblilites for ReadMe Files become ***endless***
 
