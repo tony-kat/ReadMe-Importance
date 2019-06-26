@@ -29,7 +29,10 @@ A very basic list of possible writing and formatting options are:
   - Nested Lists
     -Twice
 - [ ] Task Lists
-- [x] 
+- [x] etc
 - @mentions
 - :emoji: :+1:
 
+With mstery of these writing and syntax tricks, the possiblilites for ReadMe Files become ***endless***
+
+I hope this File gave you a bit more insight as to what this repository is all about, as well as give an intro to the power of the ReadMe File.
