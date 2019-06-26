@@ -1,0 +1,16 @@
+
+#include<iostream>
+using namespace std;
+
+int main(){
+char Response;
+cout << "Does your Repository include a ReadMe file? answer y or n" << endl;
+cin >> Response;
+if ( Response == 'y' )
+cout << "Excellent! Carry on." << endl;
+else if ( Response == 'n' )
+cout << "That's unfortunate... go back and fix that." << endl;
+else cout << "That is an invalid input...\n";
+
+return 0;
+}
