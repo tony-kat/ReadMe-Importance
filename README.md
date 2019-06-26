@@ -18,3 +18,10 @@ When used creatively, ReadMe files can be used even before the final product, se
 - [ ] Turn off Computer
 
 To-Do lists are made possible by another neat trick offered by the Read Me Feature, **Basic** *writing* and ~~gromnatting~~ formatting `syntax`
+
+A very basic list of possible writing and formatting options are:
+
+- **bold**
+- *italic*
+- ***bold italic***
+~~strikethrough 
