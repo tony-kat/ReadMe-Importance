@@ -28,8 +28,8 @@ A very basic list of possible writing and formatting options are:
 - Lists
   - Nested Lists
     - Twice
-- [ ] Task Lists
-- [x] etc
+- [ ] Task⮧
+- [x] Lists⮥
 - @mentions
 - :emoji: :+1:
 
