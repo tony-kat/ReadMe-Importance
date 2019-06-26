@@ -16,7 +16,7 @@ When used creatively, ReadMe files can be used even before the final product, se
 - [ ] Update software
 - [ ] Turn off Computer
 
-To-Do lists are made possible by another neat trick offered by the Read Me Feature, **Basic** *writing* and ~~gromnatting~~ formatting `syntax`
+To-Do lists are made possible by another neat trick offered by the Read Me Feature, basic writing and formatting syntax. The text edit interface is pre-loaded with tons of formatting options that can be triggered via coded inputs in order to maximize your prose and connect thoughts/ideas/instructions as clearly as possible.
 
 A very basic list of possible writing and formatting options are:
 
