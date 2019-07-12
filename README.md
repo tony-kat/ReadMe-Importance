@@ -42,4 +42,6 @@ One very important note: your repository can (and frankly should) include *multi
 I hope this File gave you a bit more insight as to what this repository is all about, as well as give an intro to the power of the ReadMe File.
 
 
-![DS Schema Screenshot](I:/Anthony/Media/ETL Screenshots/DS Schema.png) 
+![DS Schema Screenshot](https://ibb.co/Zmny43z) 
+![HMIS Schema Screenshot](https://ibb.co/YPhDrg9) 
+
