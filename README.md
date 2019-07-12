@@ -40,3 +40,6 @@ With mastery of these writing and syntax tricks, the possiblilites for ReadMe Fi
 One very important note: your repository can (and frankly should) include *multiple* ReadMe files for specific sections of the code in order to strongly reinforce clarity and transparency in your work. Often times a repository is far too complex for a general overweview and would function much better when its components are also explained.
 
 I hope this File gave you a bit more insight as to what this repository is all about, as well as give an intro to the power of the ReadMe File.
+
+
+![DS Schema Screenshot](I:/Anthony/Media/ETL Screenshots/DS Schema.png) 
